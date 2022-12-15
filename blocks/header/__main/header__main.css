@@ -1,0 +1,6 @@
+.header__main {
+    display: flex;
+    justify-content: space-between;
+    min-width: 1169px;
+    margin: 57px auto 216px;
+}

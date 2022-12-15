@@ -1,0 +1,8 @@
+.article__image {
+    margin-right: 18px;
+    min-height: 344px;
+}
+
+.article__image:last-child {
+    margin-right: 0;
+}

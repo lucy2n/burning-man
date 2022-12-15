@@ -1,0 +1,5 @@
+.header__lead {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 322px;
+}

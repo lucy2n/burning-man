@@ -1,0 +1,19 @@
+.header__element {
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;
+    margin-right: 40px;
+    text-transform: uppercase;
+    text-decoration: none;
+    align-self: center;
+}
+
+.header__element:last-child {
+    margin-right: 0;
+}
+
+.header__element:hover {
+    opacity: 0.5;
+    transform: 0.3s;
+}

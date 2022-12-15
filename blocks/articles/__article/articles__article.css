@@ -1,0 +1,7 @@
+.articles__article { 
+    margin-right: 36px;
+}
+
+.articles__article:last-child { 
+    margin-right: 0;
+}

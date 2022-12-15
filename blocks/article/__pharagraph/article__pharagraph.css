@@ -1,0 +1,10 @@
+.article__pharagraph {
+    margin: 0;
+    margin-bottom: 113px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: justify;
+    color: #000000;
+    min-height: 192px;
+}
